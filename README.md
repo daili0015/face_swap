@@ -16,8 +16,8 @@ If you find this code useful, please make sure to cite our paper in your work.
 ## Dependencies
 | Library                                                            | Minimum Version | Notes                                    |
 |--------------------------------------------------------------------|-----------------|------------------------------------------|
-| [Boost](http://www.boost.org/)                                     | 1.47            |                                          |
-| [OpenCV](http://opencv.org/)                                       | 3.0             |                                          |
+| [Boost](http://www.boost.org/)                                     | 1.47            |1.60                                         |
+| [OpenCV](http://opencv.org/)                                       | 3.0             |3.2                                          |
 | [find_face_landmarks](https://github.com/YuvalNirkin/find_face_landmarks) | 1.1      |                                          |
 | [face_segmentation](https://github.com/YuvalNirkin/face_segmentation) | 0.9          |                                          |
 | [Caffe](https://github.com/BVLC/caffe)                             | 1.0             |☕️                                        |
